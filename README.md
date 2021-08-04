@@ -4,9 +4,9 @@
 - 📫 How to reach me: truongluan303@gmail.com
 
 ### Visit my:
-    <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
-    <img src="{https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white}" />
-    <img src="{https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white}" />
+    [<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />]
+    [<img src="{https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white}" />]
+    [<img src="{https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white}" />]
 	
 ### Technologies:
 
