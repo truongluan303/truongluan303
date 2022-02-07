@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hoang Truong. But just call me Luan
 - 👀 I’m interested in Java, C++, and especially Python
-- 🌱 I’m currently majoring in Computer Science at SJSU
-- 📫 How to reach me: truongluan303@gmail.com
+- 🌱 I’m currently a Software Engineer intern and CS student
+- 📫 My Portfolio Website: https://truongluan303.github.io/HoangTruong.github.io/
 
 
 <!---
