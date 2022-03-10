@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hoang Truong. But just call me Luan
-- 👀 I’m interested in Java, C++, and especially Python
+- 👀 The languages I use are Java, C++, C#, Ruby and mostly Python
 - 🌱 I’m currently a Software Engineer intern and CS student
 - 📫 My Portfolio Website: https://truongluan303.github.io/HoangTruong.github.io/
 
